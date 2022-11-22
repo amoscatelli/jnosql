@@ -15,8 +15,8 @@
 package org.eclipse.jnosql.mapping.validation;
 
 
-import javax.enterprise.inject.Instance;
-import javax.inject.Inject;
+import jakarta.enterprise.inject.Instance;
+import jakarta.inject.Inject;
 import javax.validation.ConstraintViolation;
 import javax.validation.ConstraintViolationException;
 import javax.validation.Validation;
